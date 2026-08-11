@@ -3,6 +3,7 @@ def compare_search_algorithms(arr, target):
     # -------------------- Linear Search --------------------
     linear_index = -1
     linear_comparisons = 0
+    
 
     for i in range(len(arr)):
         linear_comparisons += 1
