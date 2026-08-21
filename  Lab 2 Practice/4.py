@@ -18,3 +18,8 @@ arr = [5, 3, 4, 1, 2]
 
 print("Before sorting:", arr)
 print("After sorting:", insertion_sort(arr))
+
+# Best Case:    O(n)
+# Average Case: O(n²)
+# Worst Case:   O(n²)
+# Space:        O(1)
