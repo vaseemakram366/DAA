@@ -45,4 +45,3 @@ def compare_search_algorithms(arr, target):
     f"Comparisons: {binary_comparisons}",
     f"Better Algorithm: {better}"
   ]
-     
